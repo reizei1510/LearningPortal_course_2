@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ann\\source\\repos\\course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|c:\\users\\ann\\source\\repos\\course\\course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|solutionrelative:course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|c:\\users\\ann\\source\\repos\\course\\course\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|solutionrelative:course\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|c:\\users\\ann\\source\\repos\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|C:\\Users\\ann\\source\\repos\\course\\course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|solutionrelative:course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|c:\\users\\ann\\source\\repos\\course\\course\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2840067B-01A0-421F-9EF4-F52C28499A1C}|course\\course.csproj|solutionrelative:course\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "key.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\course\\course\\key.cs",
+              "RelativeDocumentMoniker": "course\\key.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\course\\course\\key.cs",
+              "RelativeToolTip": "course\\key.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:12:43.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\course\\course\\Program.cs",
+              "RelativeDocumentMoniker": "course\\Program.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\course\\course\\Program.cs",
+              "RelativeToolTip": "course\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:12:40.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\course\\course\\Form2.cs",
+              "RelativeDocumentMoniker": "course\\Form2.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\course\\course\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "course\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:12:14.631Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\course\\course\\Form1.cs",
+              "RelativeDocumentMoniker": "course\\Form1.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\course\\course\\Form1.cs",
+              "RelativeToolTip": "course\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:11:21.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\course\\course\\Form1.cs",
+              "RelativeDocumentMoniker": "course\\Form1.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\course\\course\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "course\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:11:23.539Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
